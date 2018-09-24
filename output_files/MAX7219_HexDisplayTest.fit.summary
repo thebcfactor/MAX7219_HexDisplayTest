@@ -1,0 +1,20 @@
+Fitter Status : Successful - Mon Sep 24 00:39:07 2018
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Lite Edition
+Revision Name : MAX7219_HexDisplayTest
+Top-level Entity Name : MAX7219_HexDisplayTest
+Family : Cyclone V
+Device : 5CGXFC5C6F27C7
+Timing Models : Final
+Logic utilization (in ALMs) : 39 / 29,080 ( < 1 % )
+Total registers : 64
+Total pins : 5 / 364 ( 1 % )
+Total virtual pins : 0
+Total block memory bits : 0 / 4,567,040 ( 0 % )
+Total RAM Blocks : 0 / 446 ( 0 % )
+Total DSP Blocks : 0 / 150 ( 0 % )
+Total HSSI RX PCSs : 0 / 6 ( 0 % )
+Total HSSI PMA RX Deserializers : 0 / 6 ( 0 % )
+Total HSSI TX PCSs : 0 / 6 ( 0 % )
+Total HSSI PMA TX Serializers : 0 / 6 ( 0 % )
+Total PLLs : 0 / 12 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )

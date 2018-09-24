@@ -1,0 +1,29 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "GPIO[10]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO[11]",
+					"strict" : false
+				},
+				{
+					"name" : "GPIO[12]",
+					"strict" : false
+				},
+				{
+					"name" : "CLOCK_50_B5B",
+					"strict" : false
+				},
+				{
+					"name" : "CPU_RESET_n",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
